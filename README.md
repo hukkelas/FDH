@@ -79,13 +79,15 @@ These changes increased the dataset size from 1.53M images to 1.87M images.
 ## Citation
 If you find the dataset useful, please cite the following:
 ```
-@article{hukkelaas2022deepprivacy2,
-  title={DeepPrivacy2: Towards Realistic Full-Body Anonymization},
-  author={Hukkel{\aa}s, H{\aa}kon and Lindseth, Frank},
-  journal={arXiv preprint arXiv:2211.09454},
-  year={2022}
-}
-
+@inproceedings{hukkelas23DP2,
+  author={Hukkelås, Håkon and Lindseth, Frank},
+  booktitle={2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}, 
+  title={DeepPrivacy2: Towards Realistic Full-Body Anonymization}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1329-1338},
+  doi={10.1109/WACV56688.2023.00138}}
 ```
 
 ## Privacy
